@@ -1,0 +1,17 @@
+body {
+  height: 100%;
+  width: 100%; 
+  background-image: url("equipo_pasteleria.jpg");
+}
+
+.menu, .headerbar {
+  background-color: white;
+  margin: 0;
+  padding: 0px;
+  
+}
+
+.menu, .footerbar {
+  background-color: steelblue;
+  text-align: center;
+}

@@ -1,0 +1,64 @@
+/*
+html {
+  height: 100%;
+  width: 100%;
+}
+*/
+.menu, .headerbar {
+  background-color: white;
+  margin: 0;
+  padding: 0px;
+  
+}
+
+.menu a {
+  display: block;
+  padding: 14x 16x;
+  color: white;
+  text-decoration: none;
+  float: left;
+}
+
+.menu a:hover {
+  background-color: lightblue;
+}
+
+body {
+  height: 100%;
+  width: 100%; 
+  background-image: url("cake_background.gif");
+  /*background-image: url("5a27a172aeddbdebd2229b6903c37004.jpg");*/
+  background-color: orange;
+}
+
+
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 80px;
+}
+
+h2 {
+  color: white;
+  text-align: left;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+qq {
+  /*color: red;
+  font-size: 20px;
+  text-align: right;  */
+  color: white;
+  text-align: right;
+  font-size: 80px;
+}
+
+.menu, .footerbar {
+  background-color: steelblue;
+  text-align: center;
+}
